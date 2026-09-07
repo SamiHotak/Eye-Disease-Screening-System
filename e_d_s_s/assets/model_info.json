@@ -1,0 +1,13 @@
+{
+  "quantization": "full int8 (uint8 I/O)",
+  "img_size": 320,
+  "input_range": "0-255 float before quantization",
+  "input_dtype": "uint8",
+  "input_scale": 1.0,
+  "input_zero_point": 0,
+  "output_dtype": "uint8",
+  "output_scale": 0.00390625,
+  "output_zero_point": 0,
+  "num_labels": 8,
+  "size_mb": 23.35
+}

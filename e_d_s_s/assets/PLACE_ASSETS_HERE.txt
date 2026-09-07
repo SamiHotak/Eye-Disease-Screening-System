@@ -1,0 +1,8 @@
+Copy the four files from phase1_assets.zip into this folder:
+
+  model.tflite
+  labels.txt
+  thresholds.json
+  model_info.json
+
+Then delete this file. The app will not start without them.

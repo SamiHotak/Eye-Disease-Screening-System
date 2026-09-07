@@ -1,0 +1,10 @@
+{
+  "Normal": 0.6499999761581421,
+  "Diabetic_Retinopathy": 0.925000011920929,
+  "Glaucoma": 0.699999988079071,
+  "AMD": 0.875,
+  "Cataract": 0.8999999761581421,
+  "Hypertensive_Retinopathy": 0.5249999761581421,
+  "Pathological_Myopia": 0.6499999761581421,
+  "Other_Abnormality": 0.675000011920929
+}

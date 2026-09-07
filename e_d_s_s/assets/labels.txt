@@ -1,0 +1,8 @@
+Normal
+Diabetic_Retinopathy
+Glaucoma
+AMD
+Cataract
+Hypertensive_Retinopathy
+Pathological_Myopia
+Other_Abnormality
