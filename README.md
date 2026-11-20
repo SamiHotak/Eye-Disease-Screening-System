@@ -322,6 +322,4 @@ educational work.
 
 ## Author
 
-**Ezat** — [xvisionstudios.com](https://xvisionstudios.com)
-
-<!-- Add GitHub / LinkedIn links. -->
+**Sami Hotak** — [github.com/SamiHotak](https://github.com/SamiHotak)
